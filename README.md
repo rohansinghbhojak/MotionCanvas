@@ -1,0 +1,2 @@
+# MotionCanvas
+ I asked myself: Why force the fingers to do all the work when we can use the whole arm? To solve this "fine motor bottleneck," I built a gamified, offline iOS app. Using CoreMotion, I tracked real-time device tilt and movement, letting the phone itself become the paintbrush — no stylus, no grip, no barrier. I kept painting smooth. Players trace constellation shapes, fill forms, and paint freely — all through natural arm motion. Every small win is celebrated, because confidence matters more than perfection.
